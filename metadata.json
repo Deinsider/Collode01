@@ -1,0 +1,7 @@
+{
+  "name": "ShieldGuard Pro: Security & Privacy Audit",
+  "description": "A comprehensive mobile security awareness tool designed to help users identify vulnerabilities like SIM-swapping, proximity attacks, and unauthorized access, providing AI-powered expert advice on hardening digital privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
